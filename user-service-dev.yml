@@ -17,6 +17,7 @@ eureka:
     service-url:
       defaultZone: http://eureka1:2001/eureka
 
+
 management:
   endpoints:
     web:
